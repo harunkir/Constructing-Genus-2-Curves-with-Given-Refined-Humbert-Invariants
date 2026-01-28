@@ -59,5 +59,3 @@ In addition to the examples above, the file includes a list of 199 ternary quadr
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-
-The author used **Gemini 3** to assist in the development and optimization of the code presented here.
